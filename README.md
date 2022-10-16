@@ -6,7 +6,7 @@ Forbes World’s Billionaires is a documented report of an annual ranking of the
 # Project Overview
 This project aims to help identify the wealthiest Forbes 2022 billionaires, the most philanthropic, and the industry that drives them. Likewise, the project will analyze whether they are self-made or not. A visual map will show the distribution of billionaires across the world.
 
-#Data Sourcing
+# Data Sourcing
 I sourced the data set used for this Analysis from [Kaggle]( https://www.kaggle.com/datasets/jjdaguirre/forbes-billionaires-2022).
 The dataset was in one spreadsheet that contained 2668 rows and 22 columns containing information on the wealthiest billionaires worldwide by ranking.
 
@@ -41,6 +41,7 @@ I added a cover page for the work on the newly created page and renamed it Cover
 On the third page, I derived insights based on the following:
 1.	Forbes 2022 Billionaires by country
 2.	Total billionaires by Gender and total countries.
+
 I added a filter on Gender to compare males and females worldwide.
 [Interact with my Dashboard and report here]( https://drive.google.com/file/d/1Jx6Z2ugyIgFtinu-yPKe83DliuZaOjXf/view?usp=sharing)
 
@@ -49,6 +50,4 @@ I added a filter on Gender to compare males and females worldwide.
 2.	The finance and investments industry drives most billionaires.
 3.	The average worth of a billionaire on the list is 4.76 billion.
 4.	Only 396 out of the 2668 billionaires had a high philanthropic score.
-
-
-
+5.	Most Male billionaires are self-made, whereas most female billionaires are not self-made.
