@@ -3,7 +3,7 @@
 ![Screenshot 2022-10-16 193519](https://user-images.githubusercontent.com/110452335/196047414-dd1f838f-925c-4f0a-92bf-2417568300aa.png) ![Screenshot 2022-10-16 193908](https://user-images.githubusercontent.com/110452335/196047479-7517afc5-2a6b-4356-b428-19b0897ec9f5.png)![Screenshot 2022-10-01 161353](https://user-images.githubusercontent.com/110452335/196047497-ea394432-cffc-4bd6-a64d-682f0793bd6a.png)
 
 # Introduction
-Forbes World’s Billionaires is a documented report of an annual ranking of the net worth of the wealthiest billionaires in the world. The information is usually compiled and published every year since March 1987. Estimates of the net value of each billionaire are cited in United States dollars regarding their documented assets while accounting for debts and other factors. On Forbes's 36th annual ranking, there were 2668 billionaires listed, 87 fewer than the previous year, 2021. In this project, I analyzed the Forbes Billionaires list 2022.
+Forbes World’s Billionaires is a documented report of an annual ranking of the net worth of the wealthiest billionaires in the world. The information is usually compiled and published every year since March 1987. Estimates of the net worth of each billionaire are cited in United States dollars regarding their documented assets while accounting for debts and other factors. On Forbes's 36th annual ranking, there were 2668 billionaires listed, 87 fewer than the previous year, 2021. In this project, I analyzed the Forbes Billionaires list 2022.
 
 # Project Overview
 This project aims to help identify the wealthiest Forbes 2022 billionaires, the most philanthropic, and the industry that drives them. Likewise, the project will analyze whether they are self-made or not. A visual map will show the distribution of billionaires across the world.
@@ -24,10 +24,12 @@ After importing the data to Power BI as a CSV, I transformed it based on the ent
 
 ## Power Query
 I changed the column names of (personName, finaWorth, category, country of citizenship, Bio)  to Name, Worth, Industry, Country, and Biography, respectively.
+
 I replaced the values on the gender column from M and F to Male and Female, respectively.
+
 I then removed the Month, Year, residenceMSA, and no of siblings columns since they were not to be used for this Analysis.
-The Worth column was multiplied by 1,000,000 and then formatted to billions in United States Dollars.
-The data was then loaded to the Power BI desktop to create insights through visualizations.
+
+The Worth column was multiplied by 1,000,000 and then formatted to billions in United States Dollars.The data was then loaded to the Power BI desktop to create insights through visualizations.
 
 ## Power BI Desktop
 I created the following DAX measures to help in visualization; Average age, Average worth, Countries, Females, Males, Industries, Maximum worth, Minimum worth, Net worth, Oldest, Organizations, Philanthropic, Total Billionaires, and Youngest.
