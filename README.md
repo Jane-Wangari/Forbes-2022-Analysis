@@ -1,5 +1,7 @@
 # Forbes 2022 Billionaires Analysis
 
+![Screenshot 2022-10-16 193519](https://user-images.githubusercontent.com/110452335/196047414-dd1f838f-925c-4f0a-92bf-2417568300aa.png) ![Screenshot 2022-10-16 193908](https://user-images.githubusercontent.com/110452335/196047479-7517afc5-2a6b-4356-b428-19b0897ec9f5.png)![Screenshot 2022-10-01 161353](https://user-images.githubusercontent.com/110452335/196047497-ea394432-cffc-4bd6-a64d-682f0793bd6a.png)
+
 # Introduction
 Forbes World’s Billionaires is a documented report of an annual ranking of the net worth of the wealthiest billionaires in the world. The information is usually compiled and published every year since March 1987. Estimates of the net value of each billionaire are cited in United States dollars regarding their documented assets while accounting for debts and other factors. On Forbes's 36th annual ranking, there were 2668 billionaires listed, 87 fewer than the previous year, 2021. In this project, I analyzed the Forbes Billionaires list 2022.
 
@@ -47,7 +49,7 @@ I added a filter on Gender to compare males and females worldwide.
 
 # Conclusions
 1.	Most of the billionaires featured on the Forbes list in 2022 were male.
-2.	The finance and investments industry drives most billionaires.
+2.	The Technology industry drives most of the philanthropic billionaires.
 3.	The average worth of a billionaire on the list is 4.76 billion.
 4.	Only 396 out of the 2668 billionaires had a high philanthropic score.
 5.	Most Male billionaires are self-made, whereas most female billionaires are not self-made.
