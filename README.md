@@ -3,10 +3,11 @@
 ![Screenshot 2022-10-16 193519](https://user-images.githubusercontent.com/110452335/196047414-dd1f838f-925c-4f0a-92bf-2417568300aa.png) ![Screenshot 2022-10-16 193908](https://user-images.githubusercontent.com/110452335/196047479-7517afc5-2a6b-4356-b428-19b0897ec9f5.png)![Screenshot 2022-10-01 161353](https://user-images.githubusercontent.com/110452335/196047497-ea394432-cffc-4bd6-a64d-682f0793bd6a.png)
 
 # Introduction
-Forbes World’s Billionaires is a documented report of an annual ranking of the net worth of the wealthiest billionaires in the world. The information is usually compiled and published every year since March 1987. Estimates of the net worth of each billionaire are cited in United States dollars regarding their documented assets while accounting for debts and other factors. On Forbes's 36th annual ranking, there were 2668 billionaires listed, 87 fewer than the previous year, 2021. In this project, I analyzed the Forbes Billionaires list 2022.
+Forbes World’s Billionaires is a documented report of an annual ranking of the net worth of the wealthiest billionaires in the world. The information is usually compiled and published every year since March 1987. Estimates of the net worth of each billionaire are cited in United States dollars regarding their documented assets while accounting for debts and other factors. On Forbes's 36th annual ranking, there were 2668 billionaires listed, 87 fewer than the previous year, 2021. 
+In this project, I analyzed the Forbes Billionaires list 2022.
 
 # Project Overview
-This project aims to help identify the wealthiest Forbes 2022 billionaires, the most philanthropic, and the industry that drives them. Likewise, the project will analyze whether they are self-made or not. A visual map will show the distribution of billionaires across the world.
+This project aims to help identify the wealthiest Forbes 2022 billionaires, the most philanthropic billionaires, and the industry that drives them. Likewise, the project will analyze whether they are self-made or not. A visual map will show the distribution of billionaires across the world.
 
 # Data Sourcing
 I sourced the data set used for this Analysis from [Kaggle]( https://www.kaggle.com/datasets/jjdaguirre/forbes-billionaires-2022).
@@ -35,12 +36,12 @@ The Worth column was multiplied by 1,000,000 and then formatted to billions in U
 I created the following DAX measures to help in visualization; Average age, Average worth, Countries, Females, Males, Industries, Maximum worth, Minimum worth, Net worth, Oldest, Organizations, Philanthropic, Total Billionaires, and Youngest.
 
 # Analysis
-I added a cover page for the work on the newly created page and renamed it Cover. On the second page, I did an Analysis of the data to get the following insights:
-1.	Top 5 riches billionaires
+I added a cover page for the work on the newly created page and renamed it Cover. On the second page, I did an Analysis of the data to draw insights on the following:
+1.	Top 5 richest billionaires
+2.  Bottom 5 richest Forbes billionaires.
 2.	The proportion of 2022 Forbes billionaires by industry.
 3.	Top 5 youngest billionaires.
-4.	To 5 and bottom 5 Forbes billionaires.
-5.	Self-made billionaires by Gender.
+4.	Self-made billionaires by Gender.
 
 On the third page, I derived insights based on the following:
 1.	Forbes 2022 Billionaires by country
