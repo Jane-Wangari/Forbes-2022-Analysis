@@ -1,6 +1,7 @@
 # Forbes 2022 Billionaires Analysis
 
-![Screenshot 2023-02-01 015300]()
+![Screenshot 2023-02-01 015300](https://user-images.githubusercontent.com/110452335/215908764-c6a2a188-d90e-425d-820c-04351f7df17d.png)
+
 
 # Introduction
 Forbes World’s Billionaires is a documented report of an annual ranking of the net worth of the wealthiest billionaires in the world. The information is usually compiled and published every year since March 1987. Estimates of the net worth of each billionaire are cited in United States dollars regarding their documented assets while accounting for debts and other factors. On Forbes's 36th annual ranking, there were 2668 billionaires listed, 87 fewer than the previous year, 2021. 
